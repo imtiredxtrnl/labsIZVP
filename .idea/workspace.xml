@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89835861-8dd3-4487-a73b-8766aa9e61ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2EuCC0EXNJtK9qrxAhCNCIq3WhK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kravchenko.Main" />
+      <module name="ИЗВП" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89835861-8dd3-4487-a73b-8766aa9e61ca" name="Default Changelist" comment="" />
+      <created>1663435950989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663435950989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="258" key="FileChooserDialogImpl" timestamp="1663436023835">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="743" y="258" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1663436023835" />
+    <state x="346" y="137" key="new project wizard" timestamp="1663436025542">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="346" y="137" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1663436025542" />
+  </component>
+</project>
